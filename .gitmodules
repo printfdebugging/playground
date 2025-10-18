@@ -1,0 +1,9 @@
+[submodule "learngl/libs/glad"]
+	path = learngl/libs/glad
+	url = https://github.com/nitrix/glad
+[submodule "learngl/libs/glfw"]
+	path = learngl/libs/glfw
+	url = https://github.com/glfw/glfw
+[submodule "learngl/libs/stb"]
+	path = learngl/libs/stb
+	url = https://github.com/nothings/stb

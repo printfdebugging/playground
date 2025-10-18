@@ -1,0 +1,8 @@
+.cache/
+build/
+obj/
+target/
+
+DemoTheme.oxt
+
+compile_commands.json
