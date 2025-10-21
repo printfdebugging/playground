@@ -2,7 +2,7 @@ SRCDIR	= source
 INCDIR	= include
 OBJDIR	= build
 
-CC		=  g++
+CC		=  ccache g++
 CFLAGS	= -g -O0 -std=c++20 -Wall -Wextra -static -I$(INCDIR) 
 LFLAGS	= 
 APPEXE	= $(OBJDIR)/exe
